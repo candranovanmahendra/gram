@@ -1,0 +1,55 @@
+{
+    "name": "dirroneofc",
+    "version": "1.0.0",
+    "description": "Base Telegram bot dirroneofc, a framework for building Telegram bots with Telegraf, Axios, Qrcode, and more.",
+    "main": "bot.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "keywords": [
+        "telegram",
+        "alphabot",
+        "telegraf-api",
+        "telebot",
+        "bot",
+        "telegram-bot",
+        "automation",
+        "qrcode",
+        "api"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zeeoneofficial/Telebot.git"
+    },
+    "author": "dirroneofc",
+    "license": "MIT",
+    "dependencies": {
+        "@octokit/core": "^5.1.0",
+        "archiver": "^6.0.1",
+        "axios": "^0.24.0",
+        "cfonts": "^2.10.0",
+        "chalk": "^4.1.0",
+        "child_process": "^1.0.2",
+        "form-data": "^4.0.0",
+        "fs": "0.0.1-security",
+        "got": "^11.8.2",
+        "https": "^1.0.0",
+        "moment-timezone": "^0.5.34",
+        "my-yts-api": "^1.0.2",
+        "node-cron": "^3.0.3",
+        "node-fetch": "^2.6.1",
+        "node-schedule": "^2.1.1",
+        "node-telegram-bot-api": "^0.64.0",
+        "nodemailer": "^6.9.1",
+        "os": "^0.1.2",
+        "path": "^0.12.7",
+        "performance-now": "^2.1.0",
+        "qrcode": "^1.5.0",
+        "telegraf": "^4.3.0",
+        "uuid": "^10.0.0",
+        "flatted": "^3.2.6"
+    }
+}

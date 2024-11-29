@@ -1,0 +1,47 @@
+[
+  {
+    "number": "+1 (809) 992-9996",
+    "id": "c140c0d1-f8a6-4441-9ead-fbd6f18bc4c6",
+    "isReserved": false
+  },
+  {
+    "number": "+1 (809) 322-3222",
+    "id": "eae23eaa-128e-426f-ab33-f65fd0def0d6",
+    "isReserved": false
+  },
+  {
+    "number": "+1 (809) 993-6661",
+    "id": "93b60879-573a-4e75-8ff9-fdb4cdaf70de",
+    "isReserved": false
+  },
+  {
+    "number": "+1 (809) 993-6665",
+    "id": "3f3146e2-291d-4e00-a2ac-f6e5a9a6bafd",
+    "isReserved": false
+  },
+  {
+    "number": "+1 (809) 993-5551",
+    "id": "d38ddcbc-1a89-4952-95fa-d17258cf8371",
+    "isReserved": false
+  },
+  {
+    "number": "+1 (809) 993-5552",
+    "id": "b77184b1-f68a-4099-a86d-6b461080d435",
+    "isReserved": false
+  },
+  {
+    "number": "+1 (809) 999-6724",
+    "id": "c3403300-2011-4f85-9e66-8433b5286e3f",
+    "isReserved": false
+  },
+  {
+    "number": "+1 (809) 993-7770",
+    "id": "e12e99da-02f9-4b85-8c99-5a55e02f7b8c",
+    "isReserved": false
+  },
+  {
+    "number": "+1 (809) 993-7772",
+    "id": "18618539-1825-4bcb-a556-0bce4c77ddac",
+    "isReserved": true
+  }
+]
